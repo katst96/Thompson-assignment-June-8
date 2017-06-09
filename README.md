@@ -1,6 +1,7 @@
 # Thompson-assignment-June-8
 Serial and S Town podcast assignment 
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Untitled Document.md</title><style></style></head><body id="preview">
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Untitled Document.md</title><style></style></head><body>
 <h1><a id="Podcast_Analysis_June_8_2017_0"></a>Podcast Analysis June 8, 2017</h1>
 <h2><a id="S_Town_2"></a>S Town</h2>
 <h3><a id="Whos_Talking_4"></a>Who’s Talking?</h3>
